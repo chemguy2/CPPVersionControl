@@ -10,6 +10,7 @@ void greet()
 
 int main()
 {
+	//choose this version
 	greet();
 
 	return 0;
