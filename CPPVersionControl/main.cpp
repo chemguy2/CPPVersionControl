@@ -1,6 +1,16 @@
 #include <iostream>
-int main()
+
+
+void greet()
 {
 	// Print some text
 	std::cout << "Welcome!" << std::endl;
+}
+
+
+int main()
+{
+	greet();
+
+	return 0;
 }
